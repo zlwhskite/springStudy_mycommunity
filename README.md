@@ -4,7 +4,7 @@
 - H2
 - myBatis
 - thymeleaf
-- bootstrap
+- bootstrap5
 - jquery
 ---
 2023/01/19
