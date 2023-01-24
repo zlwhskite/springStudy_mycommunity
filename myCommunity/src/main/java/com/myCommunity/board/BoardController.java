@@ -22,7 +22,7 @@ import com.myCommunity.comment.CommentServiceImpl;
 import com.myCommunity.comment.CommentVo;
 import com.myCommunity.user.UserVo;
 
-
+//test
 @Controller
 @RequestMapping("/boards")
 public class BoardController {
