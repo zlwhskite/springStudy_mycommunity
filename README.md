@@ -1,9 +1,5 @@
-# spring_myCommunity
-![image](https://user-images.githubusercontent.com/80504740/215412677-c9a3d667-f625-48c2-a30e-6e4b5703fadd.png)
-
-
-
-
+# Spring_myCommunity
+> ![image](https://user-images.githubusercontent.com/80504740/215412677-c9a3d667-f625-48c2-a30e-6e4b5703fadd.png)
 - Java11
 - springboot2.7.8
 - Gradle
