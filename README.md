@@ -1,6 +1,7 @@
 # spring_myCommunity
-- java
-- springboot
+- Java11
+- springboot2.7.8
+- Gradle
 - H2
 - myBatis
 - thymeleaf
@@ -39,5 +40,5 @@
 - contact기능 추가하기
 ---
 2023/01/30
-- 아이디찾기, 비밀번호
+- 아이디찾기, 비밀번호찾기
 
