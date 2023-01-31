@@ -1,4 +1,6 @@
-
+# myCommunity
+> 커뮤니티사이트(진행중..)
+## 사용한 기술
 - Java11
 - springboot2.7.8
 - Gradle
@@ -7,6 +9,22 @@
 - thymeleafz
 - bootstrap5
 - jquery
+## 기능
+- 게시글 CRUD
+- 회원가입, 찾기
+- 로그인, 로그아웃
+- 댓글
+- 조회 수
+- 검색
+- 출석체크
+- 게시글 정렬
+## 이미지
+<img src="https://user-images.githubusercontent.com/80504740/215631202-30d5ae47-8c22-4c8b-98c0-6459ab340a1d.png" width="450px" height="300px"></img>
+---
+## 개선사항
+- 리팩토링
+- contact기능추가
+- 스프링시큐리티
 ---
 2023/01/19
 - login패키지추가
