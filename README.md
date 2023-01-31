@@ -23,6 +23,7 @@
 ## 개선사항
 - 리팩토링
 - contact기능추가
+- 관리자페이지추가
 - <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 ---
 2023/01/19
