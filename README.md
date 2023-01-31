@@ -1,14 +1,12 @@
 # myCommunity
 > 커뮤니티사이트(진행중..)
 ## 사용한 기술
-- Java11
-- springboot2.7.8
-- Gradle
-- H2
-- myBatis
-- thymeleafz
-- bootstrap5
-- jquery
+- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 2.7.8
+- <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+- MyBatis
 ## 기능
 - 게시글 CRUD
 - 회원가입, 찾기
