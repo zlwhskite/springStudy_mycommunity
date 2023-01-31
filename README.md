@@ -1,7 +1,7 @@
 # myCommunity
 > 커뮤니티사이트(진행중..)
 ## 사용한 기술
-- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 2.7.8
+- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
@@ -22,7 +22,7 @@
 ## 개선사항
 - 리팩토링
 - contact기능추가
-- 스프링시큐리티
+- <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 ---
 2023/01/19
 - login패키지추가
