@@ -1,5 +1,5 @@
 # myCommunity
-> 커뮤니티사이트(진행중..)
+> 스프링공부를 위해 커뮤니티사이트
 ## 사용한 기술
 - <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
@@ -16,14 +16,12 @@
 - 조회 수
 - 검색
 - 출석체크
-- 게시글 정렬
+- 게시글 정렬(최신순, 인기순)
 ## 이미지
 <img src="https://user-images.githubusercontent.com/80504740/215631202-30d5ae47-8c22-4c8b-98c0-6459ab340a1d.png" width="450px" height="300px"></img>
 ---
 ## 개선사항
 - 리팩토링
-- contact기능추가
-- 관리자페이지추가
 - <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 ---
 2023/01/19
