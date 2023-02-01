@@ -15,6 +15,10 @@ public interface BoardMapper {
 	
 	void delete(@Param("id") int id, @Param("boardVo") BoardVo boardVo);
 	
+	void userDelete(@Param("nickName") String nickName,  @Param("boardVo") BoardVo boardVo);
+	
+	void hitsUp(@Param("id") int id);
+	
 	BoardVo findById(int id);
 	
 	List<BoardVo> findByName(String nickName);
@@ -27,4 +31,5 @@ public interface BoardMapper {
 	List<BoardVo> findAllStock(); 
 	List<BoardVo> findAllFree();
 	List<BoardVo> boardHits(String division);
+	List<BoardVo> boardRecen(String division);
 }
