@@ -16,7 +16,7 @@
 - 댓글
 - 조회 수
 - 검색
-- 출석체크
+- 출석체크(1,2,3,X,1,2...)
 - 게시글 정렬(최신순, 인기순)
 ## 이미지
 <img src="https://user-images.githubusercontent.com/80504740/215631202-30d5ae47-8c22-4c8b-98c0-6459ab340a1d.png" width="450px" height="300px"></img>
