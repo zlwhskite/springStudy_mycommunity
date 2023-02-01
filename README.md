@@ -1,6 +1,7 @@
 # myCommunity
 > 스프링공부를 위해 커뮤니티사이트
 ## 사용한 기술
+- JAVA 11
 - <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  2.7.8
 - <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
