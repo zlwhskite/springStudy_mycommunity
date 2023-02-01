@@ -8,6 +8,7 @@
 - <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 - MyBatis(H2)
+- Chart.js
 ## 기능
 - 게시글 CRUD
 - 페이징
@@ -21,6 +22,9 @@
 - 게시글 정렬(최신순, 인기순)
 ## 이미지
 <img src="https://user-images.githubusercontent.com/80504740/215631202-30d5ae47-8c22-4c8b-98c0-6459ab340a1d.png" width="450px" height="300px"></img>
+<img src="https://user-images.githubusercontent.com/80504740/215987581-0dd70f25-781d-40b8-8b74-b86f4338b47a.png" width="450px" height="300px"></img>
+
+
 ---
 ## 개선사항
 - 리팩토링
