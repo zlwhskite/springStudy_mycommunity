@@ -21,7 +21,11 @@
 - 출석체크(1,2,3,X,1,2...)
 - 게시글 정렬(최신순, 인기순)
 ## 이미지
+###### Home 화면
 <img src="https://user-images.githubusercontent.com/80504740/215631202-30d5ae47-8c22-4c8b-98c0-6459ab340a1d.png" width="450px" height="300px"></img>
+
+
+###### 관리자 화면
 <img src="https://user-images.githubusercontent.com/80504740/215987581-0dd70f25-781d-40b8-8b74-b86f4338b47a.png" width="450px" height="300px"></img>
 
 
