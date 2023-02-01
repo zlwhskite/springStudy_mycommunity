@@ -26,7 +26,7 @@
 
 
 ###### 관리자 화면
-<img src="https://user-images.githubusercontent.com/80504740/215987581-0dd70f25-781d-40b8-8b74-b86f4338b47a.png" width="450px" height="300px"></img>
+<img src="https://user-images.githubusercontent.com/80504740/215989038-7f734319-ac59-4a9f-87af-150cd24429d1.png" width="450px" height="300px"></img>
 
 
 ---
