@@ -15,7 +15,7 @@
 - 회원가입, 찾기
 - 로그인, 로그아웃
 - 관리자 페이지
-- 댓글,대댓글
+- 댓글, 대댓글
 - 조회 수
 - 검색
 - 출석체크(1,2,3,X,1,2...)
@@ -29,7 +29,9 @@
 <img src="https://user-images.githubusercontent.com/80504740/215989038-7f734319-ac59-4a9f-87af-150cd24429d1.png" width="450px" height="300px"></img>
 
 
----
+###### 댓글
+<img src="https://user-images.githubusercontent.com/80504740/216259441-1280c98a-5921-4fbc-94c6-e0f7002fa1ed.png" width="450px" height="300px"></img>
+
 ## 개선사항
 - 리팩토링
 - <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
