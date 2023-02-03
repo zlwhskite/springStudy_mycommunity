@@ -22,7 +22,7 @@
 - 게시글 정렬(최신순, 인기순)
 ## 이미지
 ###### Home 화면
-<img src="https://user-images.githubusercontent.com/80504740/215631202-30d5ae47-8c22-4c8b-98c0-6459ab340a1d.png" width="450px" height="300px"></img>
+<img src="https://user-images.githubusercontent.com/80504740/216536997-0b7b23d4-082f-430e-959b-7f82c7da3cbd.png" width="450px" height="300px"></img>
 
 
 ###### 관리자 화면
