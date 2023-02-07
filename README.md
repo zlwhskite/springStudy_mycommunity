@@ -98,4 +98,4 @@
 - 댓글작성, 수정.. 후 스크롤 이벤트
 ---
 2023/02/07
-- user비밀번호 암호화(MessageDigest)
+- user비밀번호 암호화(MessageDigest(단방향암호화 복호화x)) 
