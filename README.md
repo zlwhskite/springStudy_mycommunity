@@ -25,6 +25,18 @@
 <img src="https://user-images.githubusercontent.com/80504740/216536997-0b7b23d4-082f-430e-959b-7f82c7da3cbd.png" width="450px" height="300px"></img>
 
 
+###### 게시판
+<img src="https://user-images.githubusercontent.com/80504740/217129906-b5e06c86-1eee-4ca9-a1d0-68827b9a2041.png" width="450px" height="300px"></img>
+
+
+###### 검색
+<img src="https://user-images.githubusercontent.com/80504740/217130283-596c2167-6d4c-40f7-9c29-5a0dd9b97d55.png" width="450px" height="300px"></img>
+
+
+###### 회원가입
+<img src="https://user-images.githubusercontent.com/80504740/217130050-3f8d0eeb-d236-4d3e-8bda-aee1f5f0d31b.png" width="450px" height="300px"></img>
+
+
 ###### 관리자 화면
 <img src="https://user-images.githubusercontent.com/80504740/215989038-7f734319-ac59-4a9f-87af-150cd24429d1.png" width="450px" height="300px"></img>
 
