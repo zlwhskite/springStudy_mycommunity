@@ -5,8 +5,9 @@
 - <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  2.7.7
 - <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>  5.2.3  
 - <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+- Ajax
 - MyBatis(H2)
 - Chart.js
 ## 기능
@@ -27,6 +28,10 @@
 
 ###### 게시판
 <img src="https://user-images.githubusercontent.com/80504740/217129906-b5e06c86-1eee-4ca9-a1d0-68827b9a2041.png" width="450px" height="300px"></img>
+
+
+###### 게시글
+<img src="https://user-images.githubusercontent.com/80504740/217130750-c61baa6d-c987-4c65-85db-bfda90ecb2ec.png" width="450px" height="300px"></img>
 
 
 ###### 검색
