@@ -52,6 +52,7 @@
 ## 개선사항
 - 리팩토링
 - 파일업로드 추가하기
+- MyBatis동적쿼리활용하기
 - <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 ---
 2023/01/19
