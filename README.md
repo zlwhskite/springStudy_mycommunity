@@ -49,7 +49,7 @@
 ###### 댓글
 <img src="https://user-images.githubusercontent.com/80504740/216259441-1280c98a-5921-4fbc-94c6-e0f7002fa1ed.png" width="450px" height="300px"></img>
 
-## 개선사항
+## 개선해야 할 사항
 - 리팩토링
 - 파일업로드 추가하기
 - MyBatis동적쿼리활용하기
