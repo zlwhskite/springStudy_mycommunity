@@ -51,6 +51,7 @@
 
 ## 개선해야 할 사항
 - 리팩토링
+- CKEditor로 변경
 - 파일업로드 추가하기
 - MyBatis동적쿼리활용하기
 - <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
