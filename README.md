@@ -11,7 +11,7 @@
 - MyBatis(H2)
 - Chart.js
 ## 기능
-- 게시글 CRUD
+- 게시글 CRUD(summernote사용)
 - 페이징
 - 회원가입, 찾기
 - 로그인, 로그아웃
