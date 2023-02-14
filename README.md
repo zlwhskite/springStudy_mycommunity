@@ -30,6 +30,10 @@
 <img src="https://user-images.githubusercontent.com/80504740/217129906-b5e06c86-1eee-4ca9-a1d0-68827b9a2041.png" width="450px" height="300px"></img>
 
 
+###### 글쓰기
+<img src="https://user-images.githubusercontent.com/80504740/218664990-33bfcfa1-fb87-41a7-af06-2d83d441d12e.png" width="450px" height="300px"></img>
+
+
 ###### 게시글
 <img src="https://user-images.githubusercontent.com/80504740/217130750-c61baa6d-c987-4c65-85db-bfda90ecb2ec.png" width="450px" height="300px"></img>
 
