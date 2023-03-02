@@ -1,5 +1,5 @@
 # myCommunity
-> 스프링공부를 위해 커뮤니티사이트
+> 커뮤니티사이트
 ## 사용한 기술
 - Java 11
 - <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  2.7.7
