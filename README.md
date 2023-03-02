@@ -10,6 +10,7 @@
 - Ajax
 - MyBatis(H2)
 - Chart.js
+## ERD
 ## 기능
 - 게시글 CRUD(summernote사용)
 - 페이징
