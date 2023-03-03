@@ -1,5 +1,5 @@
 # myCommunity
-> 커뮤니티사이트
+> 스프링을 사용한 커뮤니티사이트
 ## 사용한 기술
 - Java 11
 - <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  2.7.7
@@ -12,6 +12,7 @@
 - Chart.js
 ## 기능
 - 게시글 CRUD(summernote사용)
+- 게시글 댓글 수 표시
 - 페이징
 - 회원가입, 찾기
 - 로그인, 로그아웃
@@ -53,7 +54,7 @@
 ###### 댓글
 <img src="https://user-images.githubusercontent.com/80504740/216259441-1280c98a-5921-4fbc-94c6-e0f7002fa1ed.png" width="450px" height="300px"></img>
 
-## 해야 할 사항
+## 공부해야 할 사항
 - 클린코드
 - 파일업로드
 - MyBatis동적쿼리활용하기
