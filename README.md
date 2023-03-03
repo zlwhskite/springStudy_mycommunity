@@ -107,5 +107,5 @@
 - user비밀번호 암호화(MessageDigest(단방향암호화 복호화x)) 
 ---
 2023/02/14
-- summernote추가
+- summernote추가(https://summernote.org/)
 - 게시글표시수정
