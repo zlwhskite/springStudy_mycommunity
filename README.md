@@ -56,7 +56,6 @@
 
 ## 공부해야 할 사항
 - 클린코드
-- 파일업로드
 - MyBatis동적쿼리활용하기
 - <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 ---
@@ -109,3 +108,5 @@
 2023/02/14
 - summernote추가(https://summernote.org/)
 - 게시글표시수정
+2023/03/08
+- summernote 다중 이미지 업로드
