@@ -28,7 +28,7 @@
 
 
 ###### 게시판
-<img src="https://user-images.githubusercontent.com/80504740/217129906-b5e06c86-1eee-4ca9-a1d0-68827b9a2041.png" width="450px" height="300px"></img>
+<img src="https://user-images.githubusercontent.com/80504740/223589951-ff4be71d-6ee5-44e4-8afc-7e57f565ab05.png" width="450px" height="300px"></img>
 
 
 ###### 글쓰기
