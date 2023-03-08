@@ -36,7 +36,7 @@
 
 
 ###### 게시글
-<img src="https://user-images.githubusercontent.com/80504740/217130750-c61baa6d-c987-4c65-85db-bfda90ecb2ec.png" width="450px" height="300px"></img>
+<img src="https://user-images.githubusercontent.com/80504740/223589713-da756f93-64c9-4e19-9177-4bc3e8ad6a13.png" width="450px" height="300px"></img>
 
 
 ###### 검색
