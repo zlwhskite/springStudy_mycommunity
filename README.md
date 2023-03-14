@@ -53,8 +53,7 @@
 <img src="https://user-images.githubusercontent.com/80504740/216259441-1280c98a-5921-4fbc-94c6-e0f7002fa1ed.png" width="450px" height="300px"></img>
 
 ## 공부해야 할 사항
-- 클린코드
-- MyBatis동적쿼리활용하기
+- MyBatis동적쿼리
 - <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 ---
 2023/01/19
